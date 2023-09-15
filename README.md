@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h3 align="center">hello , I`m jhon vargas</h3>
 <h6 align="center">A passionate developer Web  from Colombia</h6>
